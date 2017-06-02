@@ -1,0 +1,27 @@
+body {
+  width: 350vh;
+  font-family: Futura;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 4%;
+
+}
+
+section {
+  width: 100%;
+  padding: 2%;
+}
+
+div {
+  margin: 1%;
+}
+
+h1 {
+  background-color: white;
+}
+
+.img {
+  margin: 1%;
+}
